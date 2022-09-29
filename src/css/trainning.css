@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../../images/background_body.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background: rgba(17, 17, 17, 0.4);
+    height: 100px;
+    min-width: 100%;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 200px;
+    height: 50px;
+    margin: 15px;
+}
+
+main {
+    margin-top: 0;
+    background-color: rgba(0, 0, 0, 0.7) ;
+    display: flex;
+    flex-direction: column;
+    min-height: 77.3vh;
+    text-align: center;
+    align-items: center;
+    gap: 5px;
+    color: #fff;
+    margin: 0 auto;
+}
+
+main h1 {
+    font-size: 45px;
+}
+
+.box_main {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    width: 100%;
+}
+
+.imgGif {
+    width: 500px;
+    height: 282px;
+}
+
+.gif {
+    height: 282px;
+}
+
+details {
+    margin-top: 15px;
+    text-align: center;
+    display: flex;
+    width: 50%;
+}
+
+summary {
+    font-size: 20px;
+    font-weight: bold;
+}
+ details p {
+    font-size: 20px;
+ }
+
+ button {
+    margin-top: 12px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: rgba( 1, 1, 1, 0.8);
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.4s ease-in-out;
+}
+
+.botao_voltar {
+    position: relative;
+}
+
+button:hover {
+    background-color: rgba(1, 206, 9, 0.5);
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    min-height: 10vh;
+}

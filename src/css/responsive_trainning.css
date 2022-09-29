@@ -1,0 +1,432 @@
+@media(max-width: 690px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 80.2vh;
+    }
+
+    main h1 {
+        font-size: 16px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 10px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 477px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 4px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-width: 420px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 78.8vh;
+    }
+
+    main h1 {
+        font-size: 25px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 25px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 350px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 0px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-height: 737px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 76.4vh;
+    }
+
+    main h1 {
+        font-size: 20px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 13px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 320px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 3px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-width: 413px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 78.2vh;
+    }
+
+    main h1 {
+        font-size: 23px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 23px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 340px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 0px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-width: 394px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 77.2vh;
+    }
+
+    main h1 {
+        font-size: 22px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 15px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 330px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 0px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-width: 380px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 77.7vh;
+    }
+
+    main h1 {
+        font-size: 22px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 15px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 320px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 0px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-height: 668px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 75vh;
+    }
+
+    main h1 {
+        font-size: 18px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+
+    iframe {
+        margin-top: 5px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 280px;
+    }
+
+    button {
+        padding: 13px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 0px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-width: 362px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 76.5vh;
+    }
+
+    main h1 {
+        font-size: 20px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 10px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 300px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 4px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-width: 361px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 76.5vh;
+    }
+
+    main h1 {
+        font-size: 16px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 10px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 270px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 4px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-height: 641px) {
+    header { 
+        height: 20%;
+    }
+
+    main {
+        min-height: 74.4vh;
+    }
+
+    main h1 {
+        font-size: 16px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 10px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 270px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 4px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}
+
+
+@media(max-width: 350px) {
+    header { 
+        height: 20%;
+    }
+    
+    main {
+        min-height: 72.4vh;
+    }
+
+    main h1 {
+        font-size: 16px;
+    }
+    
+    .box_main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    iframe {
+        margin-top: 10px;
+    }
+
+    iframe, .imgGif, .gif{
+        width: 230px;
+    }
+
+    .botao_voltar {
+        position: relative;
+        bottom: 10px;
+    }
+
+    footer {
+        min-height: 10vh;
+        background-color: rgba(0, 0, 0, 0.7) ;
+    }
+}

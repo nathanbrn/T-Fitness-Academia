@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+.logo {
+    width: 360px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+main {
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: -50px;
+}
+
+.login, .senha {
+    width: 350px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.btnLogin {
+    width: 150px;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+}
+.btnLogin:hover {
+    background-color: gray;
+    color: #fff;
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -45px;
+}
+
+.insta {
+    display: block;
+    text-align: center;
+}
