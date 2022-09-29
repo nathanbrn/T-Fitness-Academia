@@ -1,14 +1,14 @@
 # T-Fitness Trainning
 
-![GitHub repo size](https://img.shields.io/github/repo-size/nathanbrn/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/nathanbrn/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/nathanbrn/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nathanbrn/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nathanbrn/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/nathanbrn/T-Fitness-Academia?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/nathanbrn/T-Fitness-Academia?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/nathanbrn/T-Fitness-Academia?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nathanbrn/T-Fitness-Academia?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nathanbrn/T-Fitness-Academia?style=for-the-badge)
 
 
 
-> Projeto desenvolvido para ajudar os alunos da academia, T-Fitness, à terem uma praticidade melhor nos treinos, sem perder tempo perguntando como é seu exercício, sendo assim uma melhoria na qualidade de tempo.
+> Projeto desenvolvido para ajudar os alunos da academia, T-Fitness, à terem uma praticidade melhor nos treinos, sem perder tempo perguntando como é seu exercício, sendo assim uma melhoria na qualidade de tempo. Esse projeto foi desenvolvido para uso em smartphone, porém também pode ser usado em desktop.
 
 
 
