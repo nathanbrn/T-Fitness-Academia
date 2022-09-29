@@ -6,10 +6,11 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nathanbrn/T-Fitness-Academia?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nathanbrn/T-Fitness-Academia?style=for-the-badge)
 
-
-<img src="ilustrandoApp.jpg" />
-
+<div>
 <img src="src/images/LOGO.png" />
+
+<img src="src/images/academia_ilustracao.gif" />
+</div>
 
 > Projeto desenvolvido para ajudar os alunos da academia, T-Fitness, à terem uma praticidade melhor nos treinos, sem perder tempo perguntando como é seu exercício, sendo assim uma melhoria na qualidade de tempo. Esse projeto foi desenvolvido para uso em smartphone, porém também pode ser usado em desktop.
 
