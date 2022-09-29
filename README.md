@@ -9,6 +9,8 @@
 
 <img src="ilustrandoApp.jpg" />
 
+<img src="src/images/LOGO.png" />
+
 > Projeto desenvolvido para ajudar os alunos da academia, T-Fitness, à terem uma praticidade melhor nos treinos, sem perder tempo perguntando como é seu exercício, sendo assim uma melhoria na qualidade de tempo. Esse projeto foi desenvolvido para uso em smartphone, porém também pode ser usado em desktop.
 
 
