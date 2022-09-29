@@ -1,4 +1,4 @@
-<img src="src/images/LOGO.png" />
+<img src="src/images/LOGO.jpg" />
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nathanbrn/T-Fitness-Academia?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nathanbrn/T-Fitness-Academia?style=for-the-badge)
