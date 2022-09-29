@@ -1,7 +1,7 @@
 // Navegação entre páginas
 document.querySelectorAll(".treinos").forEach(button => {
 
-    button.addEventListener("click", function(event) {
+    button.addEventListener("click", event => {
 
         const pages = event.target || event.srcElement;
         const id = pages.id;
@@ -12,7 +12,7 @@ document.querySelectorAll(".treinos").forEach(button => {
 });
 document.querySelectorAll("#home").forEach(button => {
 
-    button.addEventListener("click", function(event) {
+    button.addEventListener("click", event => {
 
         const pages = event.target || event.srcElement;
         const id = pages.id;
@@ -23,7 +23,7 @@ document.querySelectorAll("#home").forEach(button => {
 });
 document.querySelectorAll(".treinos_sub").forEach(button => {
 
-    button.addEventListener("click", function(event) {
+    button.addEventListener("click", event => {
 
         const pages = event.target || event.srcElement;
         const id = pages.id;
